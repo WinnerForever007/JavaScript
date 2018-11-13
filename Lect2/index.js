@@ -47,4 +47,3 @@ function Task5(number){ // Задание 5
 
 Task5(12);
 Task5(-7);
-Task5();
