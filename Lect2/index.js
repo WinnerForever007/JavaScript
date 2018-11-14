@@ -46,4 +46,8 @@ function Task5(number){ // Задание 5
 }
 
 Task5(12);
+<<<<<<< HEAD
 Task5(-7);
+=======
+Task5(-7);
+>>>>>>> af24f44849d87a3345534b3d33caafd1fa692994
